@@ -25,4 +25,10 @@ Lover Heart.
     -Requirs python3. and Turtle module which is in built with python.
     -The heart is displayee in a turtle graphics window.
       AUTHOURED BY RunanuJr
+
+Banking Program.
+   -A python program that replicates basic banking operations like deposits, withdraws and balance check.
+   -One can check account balance, deposit money and withdraw money.
+   -For one to run, install python and clone this respiratory.
+     AUTHORED BY RunanuJr
    
