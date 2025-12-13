@@ -38,5 +38,27 @@ LogIn System.
   -Can also be improved by someone else who has the skills, ie, Adding GUI using Tkinter and checking Password strength.
   -Install python 3, clone this respiratory, open the terminal and run the program.
      AUTHORED BY RunanuJr
-  -
+     
+ My QR Generator.py
+ -A simple Python program that generates QR codes from text or URLs and saves them as PNG images.
+
+Features
+-Generates QR codes from any text or URL.
+-Saves the QR code as qrcode.png.
+-Customizable QR code size, border, and colors (optional in code).
+
+Requirements
+ -Python 3.x
+ -qrcode library
+ -Pillow library (for image handling)
+ -Install the required libraries using pip:
+ -pip install qrcode[pil]
+
+ Usage
+ -Run the script:
+ -python my_qr_generator.py
+ -Enter the text or URL when prompted.
+ -A QR code image (qrcode.png) will be saved in the same folder.
+ -Open the image to scan your QR code
+    AUTHOURED BY Runanu Jr 
   
