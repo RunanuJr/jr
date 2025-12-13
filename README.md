@@ -31,4 +31,12 @@ Banking Program.
    -One can check account balance, deposit money and withdraw money.
    -For one to run, install python and clone this respiratory.
      AUTHORED BY RunanuJr
-   
+
+LogIn System.
+  -This python log in system demonstrates object- oriented programming where users register and login.
+  -It stores usernames and passwords in JSON.
+  -Can also be improved by someone else who has the skills, ie, Adding GUI using Tkinter and checking Password strength.
+  -Install python 3, clone this respiratory, open the terminal and run the program.
+     AUTHORED BY RunanuJr
+  -
+  
