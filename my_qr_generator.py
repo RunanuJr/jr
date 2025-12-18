@@ -1,6 +1,6 @@
 import qrcode
 
-data = input("Enter Text/URL or phone number: ")
+data = input("Enter Text or URL: ")
 
 qr = qrcode.QRCode(
     version=1,
