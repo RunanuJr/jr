@@ -38,5 +38,20 @@ LogIn System.
   -Can also be improved by someone else who has the skills, ie, Adding GUI using Tkinter and checking Password strength.
   -Install python 3, clone this respiratory, open the terminal and run the program.
      AUTHORED BY RunanuJr
-  -
+     
+Password & Passphrase Advisor with Argon2.
+  -This Python tool analyzes single passwords or passphrases, estimates entropy, detects human patterns, provides improvement suggestions, and hashes the input securely using Argon2.
+  -It:
+    - Analyzes single passwords or passphrases
+    - Calculate entropy in bits
+    - Provide strength rating
+    - Detect human patterns (common names, short words, predictable symbol/digit placement)
+    - Suggest improvements
+    - Estimate time to crack (offline and online)
+    - Securely hash using Argon2
+    - Verify password/passphrase against the hash
+  - It requires python3 and argon2-cffi library
+       AUTHOURED BY RunanuJr
+
+
   
